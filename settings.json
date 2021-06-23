@@ -1,0 +1,9 @@
+{
+    "name": "ElectrolSyst",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/voting/core-ballot": true
+    }
+}
